@@ -1,4 +1,15 @@
 body {
     color: #fff;
-    background-color: #000;
+    background-color: rgb(41, 41, 41);
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    font-weight: bold;
+    background-color: #fff
 }
